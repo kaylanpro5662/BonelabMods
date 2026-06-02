@@ -2,6 +2,11 @@
 
 This is a tutorial on installing Bonelab mods on both PCVR and Quest standalone. 
 
+>[!NOTE]
+> Go to either of these sections for the Mod Installation:
+> - [Standalone Quest Installation](#standalone-quest-installation)
+> - [PCVR Installation](#pcvr-installation)
+
 >[!IMPORTANT]
 >Mandatory Mods You MUST download are listed below:
 > - Thunderstore Mod Assistant[^1]
@@ -9,7 +14,7 @@ This is a tutorial on installing Bonelab mods on both PCVR and Quest standalone.
 
 ***
 
-# Standalone Quest
+# Standalone Quest Installation
 >[!NOTE]
 > If you already have SideQuest, go to [This Link](#3-downloading-lemonloader), which will skip the part where you need to download SideQuest.
 
@@ -61,10 +66,22 @@ To finish installation, go ahead and open BoneLab. When you open BoneLab, it wil
 >[!CAUTION]
 > Make sure you always press ***"Open App"*** and never "Restore". If you do press "Restore", it will reinstall the game, deleting your save file and your mods folder too.
 
-Wait until you have loaded and bonelab has opened. You do not need to wait for the shader cache to download; make sure to close Bonelab once you reach shader cache installation.
+Wait until you have loaded and Bonelab has opened. You do not need to wait for the shader cache to download; make sure to close Bonelab once you reach shader cache installation.
 
 ## 6. Reinstalling Necessary Mods
 Go ahead and take BoneLib[^2] and add it to this folder:
+```
+MelonLoader --> com.StressLevelZero.BONELAB --> Mods
+```
+Go to the folder in the BoneLib ZIP File called 'Mods' and import the .dll file and the .xml (if there even is one). Do the same thing with the ThunderstoreModManager .dll and .xml file. Inside ThunderstoreModAssistant, you may notice that there is a 'Plugins' folder. Go to this Folder inside your Quest on SideQuest/File Explorer:
+```
+MelonLoader --> com.StressLevelZero.BONELAB --> Plugins
+```
+Import the 'ThunderstoreModAssistantPlugin.dll' file into the 'Plugins' folder.
+>[!WARNING]
+> Do not put the mods in a folder; put the mods/plugins directly in the folder itself. Do not organise anything; the mods won't work otherwise.
+
+# PCVR Installation
 
 [^1]: Thunderstore Mod Assistant is Optional for both Quest Standalone and PCVR, helping to download mods in-game. After downloading mods in-game, you will have to restart your game to install the mods on your device fully. Link Here: https://thunderstore.io/c/bonelab/p/notnotnotswipez/ThunderstoreModAssistant/
 [^2]: BoneLib is a Library for all mods, mandatory for installation. Link Here: https://thunderstore.io/c/bonelab/p/bonelib/BoneLib/
