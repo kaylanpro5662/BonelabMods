@@ -53,7 +53,7 @@ It will show a menu like this; make sure to press "Patch". Not any of the grey b
 ### Unable to restore
 Lemon is unable to restore app data. Do you want to open the folder containing the backup now? It will not be deleted after patching is complete.
 ```
-This is just saying that it couldn't back up your saves and mods folder. If you already did [Step 4](#4-backing-up-save-files), you can go ahead and press No. Otherwise, press Yes and back the Save folder and Mods folder now.
+This is just saying that it couldn't back up your saves and mods folder. If you already did [Step 4](#4-backing-up-game-files), you can go ahead and press No. Otherwise, press Yes and back the Save folder and Mods folder now.
 
 To finish installation, go ahead and open BoneLab. When you open BoneLab, it will say something like this image below:
 <img width="341" height="342" alt="image" src="https://github.com/user-attachments/assets/f9c91d12-f482-4a43-ac0e-628f10c1e90f" />
