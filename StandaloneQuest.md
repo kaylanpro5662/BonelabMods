@@ -2,6 +2,10 @@
 
 This is a tutorial on installing Bonelab mods on Quest standalone. 
 
+>[!TIP]
+> If you have installed the latest standalone Quest Helper, found below, go to Step 5 [Here](#5-installing-lemonloader-into-bonelab), you do not need to follow any other steps after or before step 5.
+> [Standalone Quest Helper](https://github.com/kaylanpro5662/BonelabMods/releases/tag/StandaloneQuest/)
+
 >[!IMPORTANT]
 > Mandatory mods you MUST download are listed below:
 > - Thunderstore Mod Assistant[^1]
@@ -48,12 +52,14 @@ Once you have backed up your save files and mods, you don't necessarily need to 
 <img width="385" height="94" alt="image" src="https://github.com/user-attachments/assets/3947e87b-bd2f-4552-82cc-e26ca0dea3cf" />
 It will show a menu like this; make sure to press "Patch". Not any of the grey buttons; just press "Patch". This will start the patching process. Once it's done, it may say something like this:
 ```
-### Unable to restore
+Unable to restore
 Lemon is unable to restore app data. Do you want to open the folder containing the backup now? It will not be deleted after patching is complete.
 ```
 This is just saying that it couldn't back up your saves and mods folder. If you already did [Step 4](#4-backing-up-game-files), you can go ahead and press No. Otherwise, press Yes and back the Save folder and Mods folder now.
 
 To finish installation, go ahead and open BoneLab. When you open BoneLab, it will say something like this image below:
+
+
 <img width="341" height="342" alt="image" src="https://github.com/user-attachments/assets/f9c91d12-f482-4a43-ac0e-628f10c1e90f" />
 
 >[!CAUTION]
