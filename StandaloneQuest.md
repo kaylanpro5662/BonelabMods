@@ -4,7 +4,8 @@ This is a tutorial on installing Bonelab mods on Quest standalone.
 
 >[!TIP]
 > If you have installed the latest standalone Quest Helper, found below, go to Step 5 [Here](#5-installing-lemonloader-into-bonelab), you do not need to follow any other steps after or before step 5.
-> [Standalone Quest Helper](https://github.com/kaylanpro5662/BonelabMods/releases/tag/StandaloneQuest/)
+>
+>[Standalone Quest Helper](https://github.com/kaylanpro5662/BonelabMods/releases/tag/StandaloneQuest/)
 
 >[!IMPORTANT]
 > Mandatory mods you MUST download are listed below:
